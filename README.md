@@ -13,6 +13,8 @@ My domains range from cloud infrastructure security and account-based marketing 
 
 ## Currently building
 
+These repos are my play area: curiosity projects, me geeking out, and learning by building. Maybe someone finds them useful, maybe not.
+
 - [hindsight](https://github.com/dempseydata/hindsight): local observability over Claude Code history, covering what was done, where the tokens went, and how the process ran.
 - [third-shift](https://github.com/dempseydata/third-shift): an unattended software factory for Claude Code that works agent-ready tickets, verifies each one, and leaves a handover.
 - [dempsey-skills](https://github.com/dempseydata/dempsey-skills): Claude Code skills, including `security-preflight`, a pre-deploy security check for solo-built projects.

@@ -24,17 +24,3 @@ My domains range from cloud infrastructure security and account-based marketing 
 ![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=flat&logoColor=white)
 ![Booz Allen Hamilton](https://img.shields.io/badge/Booz%20Allen%20Hamilton-041E42?style=flat&logoColor=white)
 ![ARPA-H](https://img.shields.io/badge/ARPA--H-005EA2?style=flat&logoColor=white)
-
-## My past life
-
-![MicroStrategy](https://img.shields.io/badge/MicroStrategy-2E2E2E?style=flat&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Teradata](https://img.shields.io/badge/Teradata-F37440?style=flat&logo=teradata&logoColor=white)
-![Netezza](https://img.shields.io/badge/Netezza-1F4E79?style=flat&logoColor=white)
-![Oracle Exadata](https://img.shields.io/badge/Oracle%20Exadata-F80000?style=flat&logo=oracle&logoColor=white)
-![IBM DB2](https://img.shields.io/badge/IBM%20DB2-052FAD?style=flat&logo=ibm&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Ab Initio](https://img.shields.io/badge/Ab%20Initio-555555?style=flat&logoColor=white)
-![Informatica](https://img.shields.io/badge/Informatica-FF4D00?style=flat&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logoColor=white)
